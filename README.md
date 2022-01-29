@@ -1,2 +1,2 @@
-# CodePathIOSCourseFIU_Lab1
+# codepathIOScourseFIU-lab1
 Table View 
